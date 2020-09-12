@@ -1,0 +1,22 @@
+body {
+  background-color: #282828;
+  color: #00ff33;
+  font-family: Courier;
+  margin: 42px;
+  font-weight: 800;
+}
+
+#terminal {
+  width: 50%;
+  outline: none;
+}
+
+a:hover {
+  color: #282828;
+  background-color: #00ff33;
+}
+
+a {
+  text-decoration: none;
+  color: #00ff33;
+}
