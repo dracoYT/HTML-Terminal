@@ -1,3 +1,2 @@
-# HTML-Terminal
+# HTML-Terminal Improved
 
-HTML Terminal I made. Not that great of an accomplishment. Here is the working [version](https://cookiegamer733.repl.co/archives/HTML%20Termial)
